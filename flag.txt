@@ -1,3 +1,2 @@
 This is flag
 NCSA{test}
-NCSA{test}
